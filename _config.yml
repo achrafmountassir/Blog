@@ -15,7 +15,7 @@ type: More
 type: categories
 type: tags
 
-skin: daylight
+skin: false
 
 paginate: 10
 
